@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(../images/bf42.jpg);
+    background-image: url(images/bf42.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -107,7 +107,7 @@ titlebutton{
     width: 100%;
     height: 650px;
     padding: 100px 0px;
-    background-image: url(../images/section2.jpg);
+    background-image: url(images/section2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -223,7 +223,7 @@ titlebutton{
     width: 100%;
     height: 400px;
     padding: 100px 0px;
-    background-image: url(../images/worldpoly.jpg);
+    background-image: url(images/worldpoly.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -237,7 +237,7 @@ titlebutton{
     width: 100%;
     height: 400px;
     padding: 100px 0px;
-    background-image: url(../images/goldcloud.jpg);
+    background-image: url(images/goldcloud.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -245,7 +245,7 @@ titlebutton{
     width: 100%;
     height: 800px;
     padding: 100px 0px;
-    background-image: url(../images/darken.png);
+    background-image: url(images/darken.png);
     background-size: cover;
     background-position: center;
 }
